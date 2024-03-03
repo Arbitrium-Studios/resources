@@ -167,7 +167,7 @@ store_suit_point [ 189, SIDE_DOOR_POINT, -415 -340 0, 5 ]
 store_suit_point [ 190, SIDE_DOOR_POINT, -415 -378 0, 3 ]
 store_suit_point [ 191, SIDE_DOOR_POINT, -415 -423 0, 25 ]
 store_suit_point [ 192, SIDE_DOOR_POINT, -358 -410 0, 1 ]
-group "donaldsDock" [
+group "FoggyFjord" [
  visgroup "1201" [
   vis [   "1201"   "1202"   "1203"   "1226"   ]
   battle_cell [ 20 20 -324.875 -429.81 -0.5 ]
@@ -7383,46 +7383,40 @@ group "donaldsDock" [
       width [ 34.4021 ]
       height [ 34.4021 ]
       text [
-       letters [ "T" ]
+       letters [ "F" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "O" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "N" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "T" ]
-      ]
-      text [
-       letters [ "O" ]
-      ]
-      text [
-       letters [ "W" ]
-      ]
-      text [
-       letters [ "N" ]
+       letters [ "Y" ]
       ]
       text [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "J" ]
+      ]
+      text [
+       letters [ "" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
+       letters [ "R" ]
       ]
       text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "D" ]
       ]
      ]
     ]

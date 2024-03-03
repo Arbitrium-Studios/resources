@@ -1,4 +1,4 @@
-group "donaldsDock" [
+group "FoggyFjord" [
  visgroup "1000:safe_zone" [
   vis [   "1000:safe_zone"   ]
   group "streets" [
@@ -513,46 +513,40 @@ group "donaldsDock" [
       width [ 29.2886 ]
       height [ 29.2886 ]
       text [
-       letters [ "T" ]
+       letters [ "F" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "O" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "N" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "T" ]
-      ]
-      text [
-       letters [ "O" ]
-      ]
-      text [
-       letters [ "W" ]
-      ]
-      text [
-       letters [ "N" ]
+       letters [ "Y" ]
       ]
       text [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "J" ]
+      ]
+      text [
+       letters [ "" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
+       letters [ "R" ]
       ]
       text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "D" ]
       ]
      ]
      baseline [
@@ -645,46 +639,40 @@ group "donaldsDock" [
       width [ 47.5285 ]
       height [ 47.5285 ]
       text [
-       letters [ "T" ]
+       letters [ "F" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "O" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "N" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "T" ]
-      ]
-      text [
-       letters [ "O" ]
-      ]
-      text [
-       letters [ "W" ]
-      ]
-      text [
-       letters [ "N" ]
+       letters [ "Y" ]
       ]
       text [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "J" ]
+      ]
+      text [
+       letters [ "" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
+       letters [ "R" ]
       ]
       text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "D" ]
       ]
      ]
     ]
@@ -755,46 +743,40 @@ group "donaldsDock" [
       width [ 38.8969 ]
       height [ 38.8969 ]
       text [
-       letters [ "T" ]
+       letters [ "F" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "O" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "N" ]
+       letters [ "G" ]
       ]
       text [
-       letters [ "T" ]
-      ]
-      text [
-       letters [ "O" ]
-      ]
-      text [
-       letters [ "W" ]
-      ]
-      text [
-       letters [ "N" ]
+       letters [ "Y" ]
       ]
       text [
        letters [ " " ]
       ]
       text [
-       letters [ "D" ]
+       letters [ "F" ]
+      ]
+      text [
+       letters [ "J" ]
+      ]
+      text [
+       letters [ "" ]
       ]
       text [
        letters [ "O" ]
       ]
       text [
-       letters [ "C" ]
+       letters [ "R" ]
       ]
       text [
-       letters [ "K" ]
-      ]
-      text [
-       letters [ "S" ]
+       letters [ "D" ]
       ]
      ]
      baseline [
@@ -982,8 +964,8 @@ group "donaldsDock" [
    ]
   ]
   group "props" [
-   prop "donalds_dock" [
-    code [ "donalds_dock" ]
+   prop "foggy_fjord" [
+    code [ "foggy_fjord" ]
     pos [ -25 10 0 ]
     nhpr [ 180 0 0 ]
    ]
