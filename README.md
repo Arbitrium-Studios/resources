@@ -29,7 +29,7 @@
 + TrueBlueDogemon on Discord for implementing various Quality of Life features including Multiple SOS Cards.
 + Rocket for helping me implement Wide-Screen Support
 + DTM1218
-+ ToonJoey for letting us use his [Project: Bikehorn][BikehornLink] assets for HD textures 
++ ToonJoey for letting us use his project bikehorn assets for HD textures https://github.com/toonjoey/toontown-project-bikehorn
 + Nora for creating the Credits Button.
 
 ### Special Thanks To:
@@ -43,5 +43,3 @@
 [discordImg]: https://img.shields.io/badge/Discord-PLAYER%20ZER0%20STUDIOS-7289DA?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 
 [discordLink]: https://discord.gg/9fgW8jAaf6
-
-[BikehornLink]: https://github.com/toonjoey/toontown-project-bikehorn
