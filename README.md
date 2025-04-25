@@ -1,4 +1,4 @@
-<img src="https://github.com/PLAYER-ZER0-STUDIOS-Toontown-Fantasy/Toontown_Fantasy/blob/main/assets/images/github-logo/fantasy-logo.png" align="right" width="200" />
+<img src="https://raw.githubusercontent.com/Arbitrium-Studios/resources/refs/heads/main/phase_3/maps/toontown-logo.png" align="right" width="200" />
 
 # Toontown-Fantasy [![Discord][discordImg]][discordLink]
 
