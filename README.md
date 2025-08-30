@@ -27,7 +27,7 @@ If you'd like to help out with features, create a branch and pull the code and i
 - [ ] [Add the Missing "Toon News For The Amused!" Textures](https://github.com/Arbitrium-Studios/resources/issues/2)
 - [ ] [Finish the HD Overhaul](https://github.com/Arbitrium-Studios/resources/issues/1)
 
-[discordImg]: https://img.shields.io/discord/775528645086543895?color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge
+[discordImg]: https://img.shields.io/discord/775528645086543895.svg?logoWidth=18&color=6aa6ff&label=Arbitrium%20Studios&style=for-the-badge
 
 [discordLink]: https://www.discord.com/invite/besx99KFcK
 
