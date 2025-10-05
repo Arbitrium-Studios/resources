@@ -1,4 +1,7 @@
 # GitHub WILL ignore these folders:
 
 phase_3.5/models/news/
+
+# GitHub WILL ignore these files:
+
 phase_3.5/models/news/cache_index.txt
